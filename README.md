@@ -7,7 +7,7 @@ Users can download specific release tags or branch names, and it will keep track
 It runs entirely on the client, there is no serverside code.
 
 ## Installing
-Place `addons/grabber` into your `garrysmod/addons/` folder.
+Clone/download the repo and move the files into your server's `garrysmod/addons/` folder.
 
 ## Using
 Type `grabber help` in the game console for help. 
